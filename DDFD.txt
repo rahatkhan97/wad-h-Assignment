@@ -1,0 +1,6 @@
+ if(isset($_GET['filter']))
+        {
+          
+              echo $_GET['data'];
+
+        }
